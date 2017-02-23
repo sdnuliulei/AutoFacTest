@@ -1,0 +1,4 @@
+E:\code\AutoFacTest\AutoFac.Data\bin\Debug\AutoFac.Data.dll
+E:\code\AutoFacTest\AutoFac.Data\bin\Debug\AutoFac.Data.pdb
+E:\code\AutoFacTest\AutoFac.Data\obj\Debug\AutoFac.Data.dll
+E:\code\AutoFacTest\AutoFac.Data\obj\Debug\AutoFac.Data.pdb

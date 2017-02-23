@@ -1,0 +1,17 @@
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFacTest.exe
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFacTest.pdb
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFac.Data.dll
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\Autofac.dll
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFac.Data.pdb
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\Autofac.xml
+E:\code\AutoFacTest\AutoFacTest\obj\Debug\AutoFacTest.csprojResolveAssemblyReference.cache
+E:\code\AutoFacTest\AutoFacTest\obj\Debug\AutoFacTest.exe
+E:\code\AutoFacTest\AutoFacTest\obj\Debug\AutoFacTest.pdb
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFacTest.exe.config
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\Autofac.Configuration.dll
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\Autofac.Configuration.xml
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFac.Models.dll
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoMapper.dll
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoFac.Models.pdb
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoMapper.pdb
+E:\code\AutoFacTest\AutoFacTest\bin\Debug\AutoMapper.xml

@@ -1,0 +1,9 @@
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoFac.Models.dll
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoFac.Models.pdb
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoMapper.dll
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoMapper.Net4.dll
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoMapper.pdb
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoMapper.xml
+E:\code\AutoFacTest\AutoFac.Models\bin\Debug\AutoMapper.Net4.pdb
+E:\code\AutoFacTest\AutoFac.Models\obj\Debug\AutoFac.Models.dll
+E:\code\AutoFacTest\AutoFac.Models\obj\Debug\AutoFac.Models.pdb
